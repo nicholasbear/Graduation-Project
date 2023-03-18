@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "graduation-project-380601",
+  "private_key_id": "f332a175dd99a4b3b8c7b4077598ff9283ae5070",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDe97SNO5w2uwA8\nBiRrLh0aItdrkWmSHi/14zwm6eF3VpYf8B4mf63mTLDYI6e0sAmhOf642DIiLK4E\np7zhJuSNUX1HeeMyqGyXL6vt114sTyE2vR0o3lOK01eCq06GRbX6iTmSWpZX4a0c\nZEXAYqUn0/5tf5u/aWLynDFLoNi6GFcI4MF9HgjnzvxE/MVDo5hOrXJXBDsofjS6\n8pg77su3EonRiuI9DhuIOiXnFJiTnHC66jULn9uQg8QNL7GkHjk8WRjeXl8L18C5\nE2ocYP6TkbB0R3+isZCdvlvZKfq00TSU+vGCFSRLDjJVBNeccKllwMzCRWAD1Crm\n+2IRQf4lAgMBAAECggEAAPoudykB+gZvTZQMUFDzLTRmY9EPGKYbuTTuBFClnZeK\nUGkFxM7t9PK0mrnrSAI2hJeju20tKROvjpMqo4T/XvQyu5+35HazBSWfGAuH3ONa\n5qnFCTMSRCtBeK/mB/Yhwk+cKj1N5+Q0FUoGOT3lcet+s72psdjVJ3GSUL3LfWNQ\nUu/X0QWgU7BWT/2TilFPpIPfDRfYRe/sfM4LGPXeVH0DGS56xti8OdG92q6xPvi+\ny19RD+Vgm+n/sv//DqOK+g3pNLM+3yyMAIjPWTReoJ2HZk7fJV/fX02yCaP267eG\nOusYZlhBLZcYuHe5zV++udFIvQhkj6a2RGRxB+Pb4QKBgQD/0B6wJ/EhM42Pa2lQ\nb/aq1wNH4zol9fBMKCJivlA18PgS+QLQ3negQv+DG8yeBjDJvGeULun5e9H5dsEI\ni4QTtejBsDxK5Yu/7rkWjMxohTOe/7+ABeUxC3hlUwE/KumO5FHVL1aHprG2FeYZ\n/6jLQQD+RHv9xSM2nichCDeDYQKBgQDfIXASyjKcHbe7bg/ArJg+DdI2EdlaPNm6\nePDTO0Ex3PhMVzyTMgRCLzNaAWFxKPHD2opDGHm401E3igD9o/y+ugGZQORMXhHq\n4iMtAMrgfErk0TK0wRk+N4hG4Q+AVZhgcxmQrfS7hu3r0DZXCMw8HEYbTG4sgqAY\nEA0jG2i1RQKBgCtbtxfcbT5XYpMAfaUolQJ31xKELQLqIISH+OwLncTGxwVQN233\nhwce0/gA6jmOiw5mZJf1K6shlYFW43jzTLuahYzutglrxrgNWkm8K5k7mnhEmMy2\nMxaQ/yMNYpS2TUfu4v/jOiNb2ZsnMw0NDCsHJYfzS6DDnShQvgkXP3GBAoGBAKZj\ngfaRD3J5erRrG5YbXqAPoG0vnDx9WgODAlsSOcicNhB/kS1Ww/QyzIFWvDotRTQ+\nuJHWI5bfBhZ7c8ewzN3RSTXmPRhxobzdC0wY5jDGnvbIxZ4izNcnhBkO5YdWzP1H\nd437Gp/ou2z45Dy808gTcXgT46iPdCDdf15ppwhdAoGBAP+BFKgOQNvhkktXrpoB\nGrXG/SnlrEZqBMfeHQmV6fRndl49ytdFTsbcQaEzgNVy7U4oR5tyUYdATh0H8ZST\njXZd0duo6qS3LzvNM6uBnS/je3VTQiQr4Yf3vtJx8OrR34ZPwPO42CWLsu8su+so\n9s9lo2zDk52Srbj1JyE+Z+pu\n-----END PRIVATE KEY-----\n",
+  "client_email": "ocr-103@graduation-project-380601.iam.gserviceaccount.com",
+  "client_id": "107517759449888689758",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ocr-103%40graduation-project-380601.iam.gserviceaccount.com"
+}
